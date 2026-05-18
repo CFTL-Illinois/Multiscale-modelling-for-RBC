@@ -1,6 +1,6 @@
 # Multi-scale DManD Modeling for RBC
 
-This repository implements a **multi-scale reduced-order modeling** approach for **Rayleigh–Bénard convection (RBC)** based on **Dynamic Mode Decomposition with Manifold Learning (DManD)**.  
+This repository implements a **multi-scale reduced-order modeling** approach for **Rayleigh–Bénard convection (RBC)** based on **data-driven manifold dynamics (DManD)**.  
 The workflow consists of three main steps:
 
 1. **POD** reduction of high-dimensional flow fields to obtain modal coefficients.  
